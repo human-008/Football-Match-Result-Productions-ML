@@ -1,0 +1,21 @@
+﻿Contributions:-
+
+
+
+
+Dataset Creation:- Chetan scraped the data and Shashank combined the scraped data and CSV Files.
+
+
+Data Pre processing: Shashank and Rohit performed data cleaning, feature selection and feature scaling.
+
+
+Data Visualization: Anirudh and Rohit plotted the graphs for visualization.
+
+
+Model Selection and Evaluation: All of us trained models and evaluated it using accuracy. We divided different models among us. 
+
+
+Hyper-parameter Tuning: We all optimised the models using GridSearchCV.
+
+
+Report: We divided the report amongst us into different sections and compiled the group report.

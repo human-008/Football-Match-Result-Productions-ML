@@ -1,0 +1,38 @@
+﻿Requirements
+
+
+Required Packages and Libraries:-
+
+
+Following packages and libraries need to be installed in order to run the project:-
+
+
+* Python 3
+* Os
+* beautifulsoup4
+* urllib3
+* Numpy
+* Pandas
+* Matplotlib
+* Seaborn
+* Sci-kit Learn
+
+
+
+
+File Dependencies:-
+
+
+Following CSV Files need to be present in the “data” folder:-
+
+
+* 20.csv
+* 19.csv
+* 18.csv
+* 17.csv
+* 16.csv
+* 15.csv
+* 14.csv
+* 13.csv
+* 12.csv
+* 11.csv
